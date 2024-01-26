@@ -11,4 +11,4 @@ I have included a few graphs below to offer you with a brief summary of the situ
 <br><br>
 ![figfig](https://github.com/padrigon-lynbert/Matplotlib-2024/assets/123610073/4492fa46-2b74-4efd-9537-80425245aefe)
 <br><br>
-And that's it. I believe I'm prepared to delve further into machine learning, data science, finance, or whatever related fields since I'm a champion and I'm undefeated this jungle is mine now and I'm going to create my kingdom some mines and things with cheap labors from the monkeys and fishes. Elon Musk must be looking for me.
+And that's it. I believe I'm prepared to delve further into machine learning, data science, finance, or whatever related fields since I'm a champion and I'm undefeated this jungle is mine now and I'm going to create my kingdom, farm here, and things with cheap labors from the monkeys and fishes. Elon Musk must be looking for me.
